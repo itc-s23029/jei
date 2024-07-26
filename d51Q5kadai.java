@@ -1,3 +1,6 @@
+//s23029
+//コマンドラインで実数値として指定された今月のガス使用量(単位 : m³。以下、使用量という)を受け取り、ガス料金を計算して表示するプログラムである。なお、今月の使用量が0.0m³になることもある。
+
 public class d51Q5kadai {
 	public static void main(String[] args){
 		double[] level = {0.0, 24.0, 57.0, Double.MAX_VALUE};
