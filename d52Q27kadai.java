@@ -1,3 +1,4 @@
+// s23029
 enum Signal {
     RED, YELLOW, GREEN;
 }
