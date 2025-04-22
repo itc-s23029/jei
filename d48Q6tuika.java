@@ -1,3 +1,4 @@
+/*
 //s23029
 //このプログラムは、ラグビーの試合結果から2チームの勝ち点を計算し、表示するプログラムである。なお、試合結果はコマンドラインから指定されるものとする。
 class d48Q6kadia {
@@ -106,3 +107,4 @@ class Achievement {
 int winPoint(int teamXPoint, int teamYPoint, int teamXTryNumber) {
 		return matchPoint(teamXPoint, teamYPoint) + bounsPoint(teamXTryNumber);
 }
+*/
